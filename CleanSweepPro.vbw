@@ -1,0 +1,5 @@
+frmMain = 0, 0, 488, 444, Z, 22, 22, 510, 466, C
+basWinInet = 176, 176, 664, 620, 
+clsMemoryManagement = 22, 22, 510, 466, 
+basWindowsTemp = 22, 22, 512, 466, 
+clsSideBar = 66, 66, 556, 510, 
